@@ -1,0 +1,15 @@
+inputs/
+outputs/
+data/
+__pycache__/
+*.pyc
+.idea/
+*.png
+*.npz
+*.txt
+*.save
+*.pkl
+test.py
+*.pdf
+*.eps
+proof/
